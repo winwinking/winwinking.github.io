@@ -1,0 +1,26 @@
+{
+  "intro": "Hi, I'm Jo. More about me coming soon.",
+  "tags": [
+    "AI Agents",
+    "Vibecoding",
+    "Drawing",
+    "Writing",
+    "Python",
+    "LangChain",
+    "#LLM"
+  ],
+  "contacts": [
+    {
+      "type": "github",
+      "label": "GitHub",
+      "value": "https://github.com/winwinking",
+      "action": "link"
+    },
+    {
+      "type": "email",
+      "label": "Email",
+      "value": "占位@email.com",
+      "action": "copy"
+    }
+  ]
+}
